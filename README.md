@@ -1,12 +1,8 @@
 # 19-Text-Editor
-[![GitHub version](https://badge.fury.io/gh/yourusername%2Fyourrepo.svg)](https://badge.fury.io/gh/yourusername%2Fyourrepo)
-[![Build Status](https://travis-ci.org/yourusername/yourrepo.svg?branch=master)](https://travis-ci.org/yourusername/yourrepo)
-[![Coverage Status](https://coveralls.io/repos/github/Ash0422/18-Social-Network-API/badge.svg?branch=master)](https://coveralls.io/github/Ash0422/18-Social-Network-API?branch=master)
 
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage and DEMO](#usage-and-demogit)
 - [User Story](#user-story)
@@ -26,23 +22,6 @@ The application will also function offline.
 ## Screenshots
 ## Folder Structure <br>
 
-![image of the application 1](./assets/images/Screenshot1.png)
-
-## Screenshot of the successfully listening on port 3001
-
-![image of the application 2](./assets/images/Screenshot2.png)
-
-## Screenshot of the application
-
-![image of the application 3](./assets/images/Screenshot3.png)
-![image of the application 3](./assets/images/Screenshot4.png)
-
-## The following image shows the application's `manifest.json` file:
-![image of the application 3](./assets/images/Screenshot5.png)
-## The following image shows the application's registered service worker:
-![image of the application 3](./assets/images/Screenshot6.png)
-## The following image shows the application's IndexedDB storage: 
-![image of the application 3](./assets/images/Screenshot7.png)
 ## Installation
 To install the project follow these steps:
 ```
@@ -52,7 +31,11 @@ To install the project follow these steps:
    npm install
 3- Run the app with:
    npm start
+4- gor to the browser and run localhost:3000
 ```
+Or you can : 
+go to this link: https://text-editor-x.herokuapp.com/
+and install the application.
 
 ## Usage and DEMO.
 
@@ -100,14 +83,14 @@ Pull requests are welcome, please open an issue first to discuss what you would 
 
 ## Tests
 This application has been tested by the creator and it works fine.<br>
-this application has been uploaded to github: https://github.com/Ash0422/19-Text-Editor <br>
-this application has been uploaded to Heroku: https://github.com/Ash0422/19-Text-Editor
+this application has been uploaded to github: https://github.com/TacoCodes/Text-Editor <br>
+this application has been uploaded to Heroku: https://text-editor-x.herokuapp.com/
 
 ## Credits
 - https://www.npmjs.com/package/express
-- https://www.npmjs.com/package/mongoose
-- Our classes records. 
+- https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
+- Our class record. 
 
 ## Questions
-For any additional questions, please contact me at chibane.tkd04@gmail.com or visit my GitHub profile at https://github.com/Ash0422.
+For any additional questions, please contact me at chibane.tkd04@gmail.com or visit my GitHub profile at https://github.com/TacoCodes.
 
